@@ -1,0 +1,4 @@
+Database:	cpfaustr_ci
+Host:	localhost
+Username:	cpfaustr_ci
+Password:	W4BrAtzeQ

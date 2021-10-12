@@ -1,0 +1,5 @@
+modify=20211012085512;perm=flcdmpe;type=pdir;unique=804U68B2405;UNIX.group=1278;UNIX.groupname=ftp;UNIX.mode=0755;UNIX.owner=1276;UNIX.ownername=ftp; ..
+modify=20211012085513;perm=flcdmpe;type=dir;unique=804U68B26F2;UNIX.group=1278;UNIX.groupname=ftp;UNIX.mode=0755;UNIX.owner=1276;UNIX.ownername=ftp; var
+modify=20211012085500;perm=adfrw;size=240;type=file;unique=804U68B2690;UNIX.group=1278;UNIX.groupname=ftp;UNIX.mode=0644;UNIX.owner=1276;UNIX.ownername=ftp; _evalUrl.js
+modify=20211012085500;perm=adfrw;size=975;type=file;unique=804U68B2691;UNIX.group=1278;UNIX.groupname=ftp;UNIX.mode=0644;UNIX.owner=1276;UNIX.ownername=ftp; support.js
+modify=20211012085512;perm=flcdmpe;type=cdir;unique=804U68B268F;UNIX.group=1278;UNIX.groupname=ftp;UNIX.mode=0755;UNIX.owner=1276;UNIX.ownername=ftp; .
